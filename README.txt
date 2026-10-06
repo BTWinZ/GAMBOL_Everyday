@@ -1,9 +1,5 @@
 GAMBOL · "Everyday Feels Better" (REEF-inspired concept) — Portable / Offline
 
-วิธีเปิด
-1. แตกไฟล์ ZIP ทั้งโฟลเดอร์
-2. ดับเบิลคลิก index.html (Chrome, Edge, Safari หรือ Firefox)
-   หรือเปิดไฟล์ 01–06 เพื่อเข้าแต่ละหน้าโดยตรง
 
 index.html คือเว็บต้นแบบทั้งหมดในไฟล์เดียว (JS, CSS, ฟอนต์, รูปสินค้า และรูปไลฟ์สไตล์ฝังอยู่ในไฟล์)
 ไม่ต้องใช้อินเทอร์เน็ตหรือเซิร์ฟเวอร์ ส่ง index.html ไฟล์เดียวให้ผู้อื่นได้
